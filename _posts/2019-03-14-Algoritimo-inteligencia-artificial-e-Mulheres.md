@@ -3,8 +3,8 @@
   title: Algoritmo, Inteligencia Artificial e Mulheres
   featured: true
   author: maria
-  tags: ia, mulheres, femnismo
-  image: https://mariaritacasagrande.github.io/images/posts/algoritmo-mujeres.jpg
+  tags: [ia, mulheres, femnismo]
+  image: 'https://mariaritacasagrande.github.io/images/posts/algoritmo-mujeres.jpg'
   ---
 
 Este artigo é uma tradução do material disponivel na Revista Cloud Computing 
