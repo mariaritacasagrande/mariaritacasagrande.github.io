@@ -1,28 +1,15 @@
   ---
   layout: post
-  title: Welcome to Jekyll!
+  title:  "Algoritmo, Inteligência Artificial e Mulheres: Quando a História se Repete"
   featured: true
-  author: john
-  tags: [python, ruby, java]
+  author: maria
+  tags: [inteligencia artificial, mulheres, feminismo]
   image: '/images/posts/image.jpeg'
+  date:   2019-03-14
+  excerpt: "Traduç?o do artigo da revista Cloud Computing"
+  comments: true
   ---
 
-
----
-layout: post
-title:  "Algoritmo, Inteligência Artificial e Mulheres: Quando a História se Repe"
-date:   2019-03-14
-featured: true
-author: Maria Rita Casagrande
-excerpt: "Traduç?o do artigo da revista Cloud Computing"
-tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
-comments: true
----
 
 ## HTML Elements
 
