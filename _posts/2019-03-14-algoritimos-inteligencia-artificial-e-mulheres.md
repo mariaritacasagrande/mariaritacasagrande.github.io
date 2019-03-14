@@ -4,7 +4,6 @@ title: Algoritmo, Inteligencia Artificial e Mulheres: Quando a História se repe
 featured: true
 tags: [sample post, images, test]
 comments: true
-featured: true
 author: maria
 image: '/images/posts/image.jpg'
 ---
