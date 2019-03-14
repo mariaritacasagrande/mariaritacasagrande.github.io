@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-date: 2013-08-16
+title: Algoritmo, Inteligência Artificial e Mulheres: Quando a História se Repete
+date: 2019-03-13
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
+author: maria
 comments: true
 ---
 
