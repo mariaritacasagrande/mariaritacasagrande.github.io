@@ -1,12 +1,21 @@
-# Site settings
-title:       Maria Rita Casagrande
-logo:        'assets/img/logo1.png'
-description: "Muita coisa me interessa"
-url:         https://mariaritacasagrande.github.io
-twitter:     https://twitter.com/indominus_rita
-facebook:    https://www.facebook.com/indominus.rita
-instagram:   https://www.instagram.com/indominus.rita
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
+theme_version: 1.0.3
+
+# Site settings
+title:       Aspire
+logo:        # Logo Image URL
+description: Clean News & Magazine Jekyll Theme
+baseurl:     ''
+url:         http://mariaritacasagrande.github.io 
+twitter:     https://twitter.com/aspirethemes
+facebook:    https://www.facebook.com/aspirethemes
+instagram:   https://www.instagram.com/aspirethemes
 
 markdown:  kramdown
 permalink: pretty
@@ -40,13 +49,21 @@ defaults:
 
 # Authors
 authors:
-  maria:
+  ahmad:
+    name:     Ahmad Ajmi
+    bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
+    email:    info@aspirethemes.com
+    website:  http://aspirethemes.com
+    github:   https://www.github.com/aspirethemes
+    twitter:  https://twitter.com/aspirethemes
+    
+  maria: 
     name:     Maria Rita Casagrande
     bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar: https://s.gravatar.com/avatar/fde8d4410bc3bced33dd4b02c1998706e?s=150
+    gravatar:gravatar: https://s.gravatar.com/avatar/fde8d4410bc3bced33dd4b02c1998706e?s=150
     email:     mariarita@riseup.net
     website:   https://mariaritacasagrande.github.io/
     github:    https://github.com/mariaritacasagrande
     twitter:   https://twitter.com/indominus_rita
     instagram: https://www.instagram.com/indominus.rita
-theme: jekyll-theme-minimal
