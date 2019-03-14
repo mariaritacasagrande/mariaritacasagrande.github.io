@@ -94,8 +94,8 @@ $(document).ready(function() {
     get: 'user',
     limit: 9,
     resolution: 'thumbnail',
-    userId: '607242560',
-    accessToken: '607242560.1677ed0.7cba79ed17a34bf981f5a51783782f0d',
+    userId: '441902919',
+    accessToken: '441902919.1677ed0.ab9040eff64249dcbfb19b6d48b4e909',
     template:
       '<div class="c-widget-instagram__item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></div>'
   });
