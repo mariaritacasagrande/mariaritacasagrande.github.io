@@ -95,7 +95,7 @@ $(document).ready(function() {
     limit: 9,
     resolution: 'thumbnail',
     userId: '607242560',
-    accessToken: '441902919.1677ed0.ab9040eff64249dcbfb19b6d48b4e909',
+    accessToken: '607242560.1677ed0.76ac60307b4f494fbe55f96d12567067',
     template:
       '<div class="c-widget-instagram__item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></div>'
   });
