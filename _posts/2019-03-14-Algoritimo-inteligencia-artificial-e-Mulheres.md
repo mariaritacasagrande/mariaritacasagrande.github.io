@@ -5,6 +5,7 @@ date: 2019-03-13
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
 author: maria
+featured: true
 comments: true
 ---
 
