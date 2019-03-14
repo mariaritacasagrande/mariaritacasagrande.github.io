@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Algoritmo, Inteligencia Artificial e Mulheres: Quando a História se repete"
+title: Algoritimos, Inteligencia artificial e mulheres - Quando a História se repete!
 featured: true
-tags: [sample post, images, test]
-comments: true
 author: maria
+tags: [frontpage, jekyll, blog]
 image: '/images/posts/algoritmo-mujeres.jpg'
 ---
 
