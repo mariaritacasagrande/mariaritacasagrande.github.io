@@ -1,11 +1,11 @@
-  ---
+---
   layout: post
-  title: Algoritmo, Inteligencia Artificial e Mulheres
+  title: Welcome to Jekyll!
   featured: true
-  author: maria
-  tags: [ia, mulheres, femnismo]
-  image: 'https://mariaritacasagrande.github.io/images/posts/algoritmo-mujeres.jpg'
-  ---
+  author: john
+  tags: [python, ruby, java]
+  image: '/images/posts/image.jpeg'
+---
 
 Este artigo é uma tradução do material disponivel na Revista Cloud Computing 
 
