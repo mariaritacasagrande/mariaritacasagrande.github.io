@@ -11,7 +11,8 @@ Temos que ensinar que a tecnologia não tem gênero. Enquanto repetimos essa fra
 
 >Acreditar que ganhamos a guerra da igualdade porque o abuso sexual, o abuso e a violência contra as mulheres são cada vez mais denunciados parece esquecer que os algoritmos e a inteligência artificial que estão mudando nossas vidas também podem se tornar uma arma de discriminação em massa.
 
-	<h2>Discriminação, preconceito, injustiça, o impacto do viés nos algoritmos</h2>
+## Discriminação, preconceito, injustiça, o impacto do viés nos algoritmos
+
   
   Uma busca com as palavras Algoritmo e mulher em inglês no Google é suficiente para entender o problema principal (convido você a fazer a mesma busca mudando mulher por homem).
 
@@ -23,7 +24,7 @@ Os resultados a seguir dessa pesquisa confirmam a necessidade urgente de agir an
 
 Esta situação, segundo o The Guardian, não é nova. No artigo Por que o problema de gênero da tecnologia não é novidade, o jornal britânico revela as práticas da Amazônia gigante. Desde 2014, a tecnologia de automação da oferta de emprego desenvolvida pela empresa de Jeff Bezos tem sido principalmente treinada com currículo masculino. De fato, o sistema aprendeu que candidatos do sexo masculino eram preferíveis. A explicação é simples: os modelos de computador da Amazon foram treinados observando padrões nos currículos apresentados à empresa durante um período de 10 anos. A maioria veio de homens.
 
-	<h2>Quando a mudança é esperada</h2>
+##Quando a Mudança é esperada
   
   A identificação e modificação de um algoritmo tendencioso parece ser complexa. Isto é explicado, da revista de tecnologia MIT Technology Review, Karen Hao, em Como o viés algorítmico é produzido e por que é tão difícil pará-lo. O autor qualifica o papel dos dados. O viés, segundo Hao, pode existir muito antes que os dados sejam coletados e em outros processos. Existem três etapas principais em que o viés algorítmico ocorre. A definição do objetivo, a primeira etapa da elaboração de um algoritmo, corresponde à transformação de um conceito em uma fórmula matemática. Obviamente, as características são determinadas de acordo com os interesses da empresa que o algoritmo precisa. A próxima etapa é introduzir dados que possam revelar preconceitos e não refletir a realidade, como vimos antes com as imagens de homens cozinhando. Na última etapa, o computador tem que escolher um atributo, isto é, uma característica particular que ajudará a dar mais precisão à previsão do algoritmo. A escolha de um atributo ou o descarte de outro pode influenciar totalmente o viés.
 
