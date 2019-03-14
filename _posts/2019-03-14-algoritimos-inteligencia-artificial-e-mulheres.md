@@ -37,8 +37,10 @@ Esta situação, segundo o The Guardian, não é nova. No artigo Por que o probl
 É possível combater o preconceito? Muitos elementos devem ser levados em conta, assim como o contexto social, por exemplo. Convido você a descobrir como Joy Buolamwini, pesquisadora do MIT Media Lab, luta contra o viés dos algoritmos. Alerta de Spoiler: pode ser combatido com a ajuda de pessoas.
 
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/joy_buolamwini_how_i_m_fighting_bias_in_algorithms" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe><br></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/joy_buolamwini_how_i_m_fighting_bias_in_algorithms" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
+
+.
 
 
 >“Este é o primeiro grande problema: a falta de mulheres cientistas e, o que é pior, a falta de um verdadeiro pensamento intersetorial por trás da criação de algoritmos.”
