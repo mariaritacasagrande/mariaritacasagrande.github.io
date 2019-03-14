@@ -5,7 +5,7 @@ featured: true
 tags: [sample post, images, test]
 comments: true
 author: maria
-image: '/images/posts/image.jpg'
+image: '/images/posts/algoritmo-mujeres.jpg'
 ---
 
 Hello word!
