@@ -1,15 +1,14 @@
----
-layout: post
-title: Algoritmo, Inteligência Artificial e Mulheres: Quando a História se Repete
-date: 2019-03-13
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
-author: maria
-featured: true
-comments: true
----
+  ---
+  layout: post
+  title: Algoritmo, Inteligencia Artificial e Mulheres
+  featured: true
+  author: maria
+  tags: [ia, mulheres, femnismo]
+  image: '/images/posts/algoritmo-mujeres.jpg'
+  ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+Este artigo é uma tradução do material disponivel na Revista Cloud Computing 
+
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 

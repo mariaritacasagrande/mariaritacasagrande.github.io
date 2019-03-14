@@ -15,8 +15,8 @@ baseurl:     '' # The subpath of your site, e.g. /blog
 url:         https://mariaritacasagrande.github.io/
 twitter:     https://twitter.com/indominus_rita
 facebook:    https://www.facebook.com/indominus.rita
-instagram:   https://www.instagram.com/indominus_rita
-github:      https://github.com/mariaritacasagrande
+instagram:   https://www.instagram.com/indominus.rita
+
 
 markdown:  kramdown
 permalink: pretty
@@ -58,4 +58,4 @@ authors:
     website:   https://mariaritacasagrande.github.io/
     github:    https://github.com/mariaritacasagrande
     twitter:   https://twitter.com/indominus_rita
-    instagram: https://www.instagram.com/indominus_rita
+    instagram: https://www.instagram.com/indominus.rita
