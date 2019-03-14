@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Algoritmo, Inteligencia Artificial e Mulheres: Quando a História se repete"
-date: 2019-03-14
-excerpt: "Examples and code for displaying images in posts."
+title: Algoritmo, Inteligencia Artificial e Mulheres: Quando a História se repete
+featured: true
 tags: [sample post, images, test]
 comments: true
 featured: true
